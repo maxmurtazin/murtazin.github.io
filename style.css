@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: #005f73; /* Яркий цвет фона */
+    background: #21c4e7; /* Яркий цвет фона */
     color: #fff;
     text-align: center;
     padding: 10px 0;
@@ -24,12 +24,12 @@ section {
 }
 
 h2 {
-    color: #3a86ff; /* Яркий цвет для заголовков */
+    color: #2868ce; /* Яркий цвет для заголовков */
 }
 
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #005f73;
+    background: #3ec1de;
     color: #fff;
 }
